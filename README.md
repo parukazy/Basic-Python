@@ -1,2 +1,2 @@
 # Basic-Python
-Dasar Dasar Python v3
+Python Basic v3
